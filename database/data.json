@@ -1,0 +1,971 @@
+[
+  {
+    "index": 1,
+    "url": "abritel",
+    "website": "Abritel",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 2,
+    "url": "adidas",
+    "website": "Adidas",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 3,
+    "url": "airbnb",
+    "website": "Airbnb",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 4,
+    "url": "alamo",
+    "website": "Alamo",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -15%"
+  },
+  {
+    "index": 5,
+    "url": "entreprise",
+    "website": "Entreprise",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -15%"
+  },
+  {
+    "index": 6,
+    "url": "national",
+    "website": "National",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -15%"
+  },
+  {
+    "index": 7,
+    "url": "alinéa",
+    "website": "Alinéa",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 8,
+    "url": "alpiq",
+    "website": "Alpiq",
+    "thecorner": true,
+    "thecorner_tips": "-28 %"
+  },
+  {
+    "index": 9,
+    "url": "ampm",
+    "website": "Ampm",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 10,
+    "url": "asos",
+    "website": "Asos",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 11,
+    "url": "asterix",
+    "website": "Astérix",
+    "thecorner": true,
+    "thecorner_tips": "-14 %"
+  },
+  {
+    "index": 12,
+    "url": "aubert",
+    "website": "Aubert",
+    "thecorner": true,
+    "thecorner_tips": "-12 %"
+  },
+  {
+    "index": 13,
+    "url": "auchan",
+    "website": "Auchan",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 14,
+    "url": "ayvens",
+    "website": "Ayvens",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 15,
+    "url": "azureva",
+    "website": "Azureva",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 16,
+    "url": "babbel",
+    "website": "Babbel",
+    "thecorner": true,
+    "thecorner_tips": "-20% à -30%"
+  },
+  {
+    "index": 17,
+    "url": "Beauteprivee",
+    "website": "Beauté Privée",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 18,
+    "url": "belambra",
+    "website": "Belambra",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 19,
+    "url": "bonobo",
+    "website": "Bonobo",
+    "thecorner": true,
+    "thecorner_tips": "-11 %"
+  },
+  {
+    "index": 20,
+    "url": "boohoo",
+    "website": "Boohoo",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 21,
+    "url": "boohooman",
+    "website": "Boohoo Man",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 22,
+    "url": "booking.com",
+    "website": "Booking.com",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 23,
+    "url": "breal",
+    "website": "Breal",
+    "thecorner": true,
+    "thecorner_tips": "-11 %"
+  },
+  {
+    "index": 24,
+    "url": "bricocash",
+    "website": "Brico Cash",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 25,
+    "url": "bricomarche",
+    "website": "Bricomarche",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 26,
+    "url": "bricorama",
+    "website": "Bricorama",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 27,
+    "url": "cache-cache",
+    "website": "Cache Cache",
+    "thecorner": true,
+    "thecorner_tips": "-11 %"
+  },
+  {
+    "index": 28,
+    "url": "carrefour",
+    "website": "Carrefour",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 29,
+    "url": "castorama",
+    "website": "Castorama",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 30,
+    "url": "cdiscount",
+    "website": "Cdiscount",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 31,
+    "url": "celio",
+    "website": "Celio",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 32,
+    "url": "centerparcs",
+    "website": "Center Parcs",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -30%"
+  },
+  {
+    "index": 33,
+    "url": "Cgrcinemas",
+    "website": "Cgr Cinéma",
+    "thecorner": true,
+    "thecorner_tips": "7,50 €"
+  },
+  {
+    "index": 34,
+    "url": "cinecheque",
+    "website": "Cinéchèque",
+    "thecorner": true,
+    "thecorner_tips": "6,95 €"
+  },
+  {
+    "index": 35,
+    "url": "cobac-parc",
+    "website": "Cobac Parc",
+    "thecorner": true,
+    "thecorner_tips": "-6% à -8%"
+  },
+  {
+    "index": 37,
+    "url": "conforama",
+    "website": "Conforama",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 38,
+    "url": "converse ",
+    "website": "Converse ",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 39,
+    "url": "cultura",
+    "website": "Cultura",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 40,
+    "url": "cyrillus",
+    "website": "Cyrillus",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 41,
+    "url": "darty",
+    "website": "Darty",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 42,
+    "url": "decathlon",
+    "website": "Decathlon",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 43,
+    "url": "deezer",
+    "website": "Deezer",
+    "thecorner": true,
+    "thecorner_tips": "-22% à -37%"
+  },
+  {
+    "index": 44,
+    "url": "deliveroo",
+    "website": "Deliveroo",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 45,
+    "url": "dpam",
+    "website": "Du Pareil Au Même",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 46,
+    "url": "ector",
+    "website": "Ector",
+    "thecorner": true,
+    "thecorner_tips": "-13 %"
+  },
+  {
+    "index": 47,
+    "url": "eplaque",
+    "website": "Eplaque",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 48,
+    "url": "etam",
+    "website": "Etam",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 49,
+    "url": "europcar",
+    "website": "Europcar",
+    "thecorner": true,
+    "thecorner_tips": "-10% à 20%"
+  },
+  {
+    "index": 50,
+    "url": "expedia",
+    "website": "Expedia",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -7%"
+  },
+  {
+    "index": 51,
+    "url": "fnac",
+    "website": "Fnac",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 52,
+    "url": "fram",
+    "website": "Fram",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 53,
+    "url": "franceminiature",
+    "website": "France Miniature",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -25%"
+  },
+  {
+    "index": 54,
+    "url": "galerieslafayette",
+    "website": "Galeries Lafayette",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 55,
+    "url": "garmin",
+    "website": "Garmin",
+    "thecorner": true,
+    "thecorner_tips": "-25 %"
+  },
+  {
+    "index": 56,
+    "url": "gemo",
+    "website": "Gemo",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 57,
+    "url": "aquarium-st-malo",
+    "website": "Grand Aquarium De Saint Malo",
+    "thecorner": true,
+    "thecorner_tips": "-8% à -11%"
+  },
+  {
+    "index": 58,
+    "url": "grevin",
+    "website": "Grévin",
+    "thecorner": true,
+    "thecorner_tips": "-25 %"
+  },
+  {
+    "index": 59,
+    "url": "hm",
+    "website": "H&M",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 60,
+    "url": "hotels.com",
+    "website": "Hotels.com",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 61,
+    "url": "hp",
+    "website": "Hp",
+    "thecorner": true,
+    "thecorner_tips": "-5% à -30%"
+  },
+  {
+    "index": 62,
+    "url": "i-run",
+    "website": "I-Run",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 63,
+    "url": "ikea",
+    "website": "Ikea",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 64,
+    "url": "interflora",
+    "website": "Interflora",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 65,
+    "url": "jacadi",
+    "website": "Jacadi",
+    "thecorner": true,
+    "thecorner_tips": "-12 %"
+  },
+  {
+    "index": 66,
+    "url": "jardiland",
+    "website": "Jardiland",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 67,
+    "url": "jardindacclimatation",
+    "website": "Jardin D’acclimatation",
+    "thecorner": true,
+    "thecorner_tips": "-21 %"
+  },
+  {
+    "index": 68,
+    "url": "jettours",
+    "website": "Jet Tours",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 69,
+    "url": "keepcool",
+    "website": "Keep Cool",
+    "thecorner": true,
+    "thecorner_tips": "-290,00 €"
+  },
+  {
+    "index": 70,
+    "url": "king-jouet",
+    "website": "King Jouet",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 71,
+    "url": "cite-espace",
+    "website": "La Cité De L’espace",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 72,
+    "url": "lagranderecre",
+    "website": "La Grande Récré",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 73,
+    "url": "laredoute",
+    "website": "La Redoute",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 74,
+    "url": "lastminute.com",
+    "website": "Lastminute.com",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 75,
+    "url": "bhv",
+    "website": "Le Bhv",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 76,
+    "url": "leroymerlin",
+    "website": "Leroy Merlin",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 77,
+    "url": "gentlemen-demenagement",
+    "website": "Les Gentlemen Du Déménagement",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 78,
+    "url": "magasins-u",
+    "website": "Magasins U",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 79,
+    "url": "maisondumonde",
+    "website": "Maison Du Monde",
+    "thecorner": true,
+    "thecorner_tips": "-13 %"
+  },
+  {
+    "index": 80,
+    "url": "marionnaud",
+    "website": "Marionnaud",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 81,
+    "url": "misterfly",
+    "website": "Misterfly",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 82,
+    "url": "mk2",
+    "website": "Mk2",
+    "thecorner": true,
+    "thecorner_tips": "7,20 €"
+  },
+  {
+    "index": 83,
+    "url": "mmv",
+    "website": "Mmv",
+    "thecorner": true,
+    "thecorner_tips": "-8% à -23%"
+  },
+  {
+    "index": 84,
+    "url": "mondialtourisme",
+    "website": "Mondial Tourisme",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 85,
+    "url": "monoprix",
+    "website": "Monoprix",
+    "thecorner": true,
+    "thecorner_tips": "-6 %"
+  },
+  {
+    "index": 86,
+    "url": "motoblouz",
+    "website": "Motoblouz",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 87,
+    "url": "natalys",
+    "website": "Natalys",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 88,
+    "url": "natureetdecouvertes",
+    "website": "Nature & Découvertes",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 89,
+    "url": "nausicaa",
+    "website": "Nausicaa",
+    "thecorner": true,
+    "thecorner_tips": "-20 %"
+  },
+  {
+    "index": 90,
+    "url": "netski",
+    "website": "Netski",
+    "thecorner": true,
+    "thecorner_tips": "-10% à -15%"
+  },
+  {
+    "index": 91,
+    "url": "nike",
+    "website": "Nike",
+    "thecorner": true,
+    "thecorner_tips": "-6% à -10%"
+  },
+  {
+    "index": 92,
+    "url": "nintendo",
+    "website": "Nintendo",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 93,
+    "url": "oceanopolis",
+    "website": "Océanopolis",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 94,
+    "url": "odalys",
+    "website": "Odalys",
+    "thecorner": true,
+    "thecorner_tips": "-8% à -10%"
+  },
+  {
+    "index": 95,
+    "url": "okaidi",
+    "website": "Okaïdi",
+    "thecorner": true,
+    "thecorner_tips": "-14 %"
+  },
+  {
+    "index": 96,
+    "url": "orchestra",
+    "website": "Orchestra",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 97,
+    "url": "otovo",
+    "website": "Otovo",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 98,
+    "url": "ovoyages",
+    "website": "Ovoyages",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 99,
+    "url": "oxybul",
+    "website": "Oxybul",
+    "thecorner": true,
+    "thecorner_tips": "-14 %"
+  },
+  {
+    "index": 100,
+    "url": "Branfere",
+    "website": "Parc De Branféré",
+    "thecorner": true,
+    "thecorner_tips": "-14 %"
+  },
+  {
+    "index": 101,
+    "url": "parcsaintecroix",
+    "website": "Parc Sainte Croix",
+    "thecorner": true,
+    "thecorner_tips": "-20 %"
+  },
+  {
+    "index": 102,
+    "url": "Patte",
+    "website": "Pathé",
+    "thecorner": true,
+    "thecorner_tips": "9,99 €"
+  },
+  {
+    "index": 103,
+    "url": "petit-bateau",
+    "website": "Petit Bateau",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 104,
+    "url": "planetesauvage",
+    "website": "Planète Sauvage",
+    "thecorner": true,
+    "thecorner_tips": "-12% à -18%"
+  },
+  {
+    "index": 105,
+    "url": "portaventuraworld",
+    "website": "Port Aventura World",
+    "thecorner": true,
+    "thecorner_tips": "-25 %"
+  },
+  {
+    "index": 106,
+    "url": "primark",
+    "website": "Primark",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 107,
+    "url": "promosejours",
+    "website": "Promoséjours",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 108,
+    "url": "promovacances",
+    "website": "Promovacances",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 109,
+    "url": "rituals",
+    "website": "Rituals",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 110,
+    "url": "safari-peaugres",
+    "website": "Safari De Peaugres",
+    "thecorner": true,
+    "thecorner_tips": "-16 %"
+  },
+  {
+    "index": 111,
+    "url": "samsung",
+    "website": "Samsung",
+    "thecorner": true,
+    "thecorner_tips": "-35 %"
+  },
+  {
+    "index": 112,
+    "url": "sarenza",
+    "website": "Sarenza",
+    "thecorner": true,
+    "thecorner_tips": "-11 %"
+  },
+  {
+    "index": 113,
+    "url": "selency",
+    "website": "Selency",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 114,
+    "url": "sergent-major",
+    "website": "Sergent Major",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 115,
+    "url": "showroomprive",
+    "website": "Showroom Privé",
+    "thecorner": true,
+    "thecorner_tips": "-5 %"
+  },
+  {
+    "index": 116,
+    "url": "playstation",
+    "website": "Playstation Store",
+    "thecorner": true,
+    "thecorner_tips": "-7 %"
+  },
+  {
+    "index": 117,
+    "url": "spartoo",
+    "website": "Spartoo",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 118,
+    "url": "steam",
+    "website": "Steam",
+    "thecorner": true,
+    "thecorner_tips": "-4 %"
+  },
+  {
+    "index": 119,
+    "url": "strava",
+    "website": "Strava",
+    "thecorner": true,
+    "thecorner_tips": "-17% à -22%"
+  },
+  {
+    "index": 120,
+    "url": "swarovski",
+    "website": "Swarovski",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 121,
+    "url": "terrabotanica",
+    "website": "Terra Botanica",
+    "thecorner": true,
+    "thecorner_tips": "-9% à 22%"
+  },
+  {
+    "index": 122,
+    "url": "thefork",
+    "website": "TheFork",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 123,
+    "url": "truffaut",
+    "website": "Truffaut",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 124,
+    "url": "ubereats",
+    "website": "Uber Eats",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 125,
+    "url": "uber",
+    "website": "Uber VTC",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 126,
+    "url": "ugc",
+    "website": "UGC",
+    "thecorner": true,
+    "thecorner_tips": "8,70 €"
+  },
+  {
+    "index": 127,
+    "url": "verisure",
+    "website": "Verisure",
+    "thecorner": true,
+    "thecorner_tips": "-300,00 €"
+  },
+  {
+    "index": 128,
+    "url": "vertbaudet",
+    "website": "Vertbaudet",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 129,
+    "url": "vtf-vacances",
+    "website": "VTF",
+    "thecorner": true,
+    "thecorner_tips": "-7% à -10%"
+  },
+  {
+    "index": 130,
+    "url": "vulcania",
+    "website": "Vulcania",
+    "thecorner": true,
+    "thecorner_tips": "-9 %"
+  },
+  {
+    "index": 131,
+    "url": "vvf",
+    "website": "VVF Villages",
+    "thecorner": true,
+    "thecorner_tips": "-8% à 10%"
+  },
+  {
+    "index": 132,
+    "url": "walibi",
+    "website": "Walibi Rhône-Alpes",
+    "thecorner": true,
+    "thecorner_tips": "-17 %"
+  },
+  {
+    "index": 133,
+    "url": "wonderbox",
+    "website": "Wonderbox",
+    "thecorner": true,
+    "thecorner_tips": "-16 %"
+  },
+  {
+    "index": 134,
+    "url": "thoiry",
+    "website": "Wow Safari Thoiry",
+    "thecorner": true,
+    "thecorner_tips": "-12% à -15%"
+  },
+  {
+    "index": 135,
+    "url": "xbox",
+    "website": "Xbox",
+    "thecorner": true,
+    "thecorner_tips": "-8 %"
+  },
+  {
+    "index": 136,
+    "url": "yves-rocher",
+    "website": "Yves Rocher",
+    "thecorner": true,
+    "thecorner_tips": "-10 %"
+  },
+  {
+    "index": 137,
+    "url": "zalando",
+    "website": "Zalando",
+    "thecorner": true,
+    "thecorner_tips": "-15 %"
+  },
+  {
+    "index": 138,
+    "url": "zoo-amneville",
+    "website": "Zoo D’amnéville",
+    "thecorner": true,
+    "thecorner_tips": "-25 %"
+  },
+  {
+    "index": 139,
+    "url": "zoo-la-fleche",
+    "website": "Zoo De La Flèche",
+    "thecorner": true,
+    "thecorner_tips": "-13% à -16%"
+  },
+  {
+    "index": null
+  }
+]
