@@ -1,35 +1,38 @@
 {
   "name": "CashBack Manager",
-  "description": "Management of cashback",
-  "version": "1.0.1",
+  "description": "Detect cashback opportunities on your current site",
+  "version": "1.0.2",
   "manifest_version": 3,
-  "permissions": ["storage", "activeTab", "alarms","scripting", "notifications", "contextMenus"],
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "host_permissions": [
+    "https://fr.igraal.com/*",
+    "https://www.widilo.fr/*",
+    "https://04598namy7-dsn.algolia.net/*",
+    "https://www.poulpeo.com/*"
+  ],
   "background": {
     "service_worker": "background.js",
     "type": "module"
-
-
   },
-  "host_permissions": [
-    "https://www.widilo.fr/*",
-    "https://fr.igraal.com/*",
-    "http://*/",
-    "https://*/"
-  ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "/images/cashback.png",
-      "32": "/images/cashback.png",
-      "48": "/images/cashback.png",
-      "128": "/images/cashback.png"
+      "16": "images/cashback.png",
+      "32": "images/cashback.png",
+      "48": "images/cashback.png",
+      "128": "images/cashback.png"
     }
   },
   "icons": {
-    "16": "/images/cashback.png",
-    "32": "/images/cashback.png",
-    "48": "/images/cashback.png",
-    "128": "/images/cashback.png"
+    "16": "images/cashback.png",
+    "32": "images/cashback.png",
+    "48": "images/cashback.png",
+    "128": "images/cashback.png"
   },
-  "options_page": "options.html"
+  "web_accessible_resources": [
+    {
+      "resources": ["database/data.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
