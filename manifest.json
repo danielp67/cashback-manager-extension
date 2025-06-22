@@ -3,7 +3,7 @@
   "description": "Detect cashback opportunities on your current site",
   "version": "1.0.2",
   "manifest_version": 3,
-  "permissions": ["activeTab", "scripting", "tabs"],
+  "permissions": ["activeTab", "scripting", "tabs", "storage"],
   "host_permissions": [
     "https://fr.igraal.com/*",
     "https://www.widilo.fr/*",
@@ -23,6 +23,7 @@
       "128": "images/cashback.png"
     }
   },
+  "options_page": "options.html",
   "icons": {
     "16": "images/cashback.png",
     "32": "images/cashback.png",
