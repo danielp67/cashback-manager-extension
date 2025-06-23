@@ -83,9 +83,7 @@ async function fetchDataBG() {
 
 async function listen() {
   let result = await fetchDataBG();
-  console.log(result);
   let nbResult = result.filter(item => item===true).length;
-  console.log(nbResult);
   let text = nbResult === 0 || isNaN(nbResult) ? '' : "" + nbResult + "";
   chrome.action.setBadgeText({ text: text });
   chrome.action.setBadgeBackgroundColor({ color: '#fc8181' });
