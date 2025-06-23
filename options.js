@@ -17,11 +17,13 @@ function buildForm(savedPrefs = {}) {
     const tr = document.createElement("tr");
 
     const tdLabel = document.createElement("td");
-    tdLabel.textContent = label;
+    const divLabel = document.createElement("div");
+    divLabel.className = "btn btn-white btn-sm text-white";
+    divLabel.textContent = label;
 
     const tdSwitch = document.createElement("td");
-    const div = document.createElement("div");
-    div.className = "form-check form-switch";
+    const divSwitch = document.createElement("div");
+    divSwitch.className = "form-check form-switch";
 
     const input = document.createElement("input");
     input.className = "form-check-input";
@@ -30,8 +32,9 @@ function buildForm(savedPrefs = {}) {
     input.checked = isChecked;
     input.addEventListener("change", saveOptions);
 
-    div.appendChild(input);
-    tdSwitch.appendChild(div);
+    divSwitch.appendChild(input);
+    tdSwitch.appendChild(divSwitch);
+    tdLabel.appendChild(divLabel);
 
     tr.appendChild(tdLabel);
     tr.appendChild(tdSwitch);
