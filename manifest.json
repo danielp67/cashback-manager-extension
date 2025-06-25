@@ -1,9 +1,9 @@
 {
-  "name": "CashBack Manager",
+  "name": "CashBack Manager FR",
   "description": "Detect cashback opportunities on your current site",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "manifest_version": 3,
-  "permissions": ["activeTab", "scripting", "tabs", "storage"],
+  "permissions": ["activeTab", "tabs", "storage"],
   "host_permissions": [
     "https://fr.igraal.com/*",
     "https://www.widilo.fr/*",
