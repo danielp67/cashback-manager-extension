@@ -4,10 +4,9 @@ async function fetchData() {
   try {
     const res = await fetch(chrome.runtime.getURL('database/data.json'));
     const localDB = await res.json();
-    const [tab] = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
-    const urlObj = new URL(tab.url);
-    const hostname = urlObj.hostname.replace(/^www\./, '');
-    const keyword = hostname.split('.')[0];
+    const tabs = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
+    const url = tabs[0]["url"] ?? '';
+    const keyword = url.replace(/.+\/\/|www.|\..+/g, '');
 
     const urlMacif = 'https://04598namy7-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1);%20Browser%20(lite);%20instantsearch.js%20(4.1.1);%20JS%20Helper%20(3.0.0)&x-algolia-application-id=04598NAMY7&x-algolia-api-key=177bd75e88473d01178ae570be03bf17';
 

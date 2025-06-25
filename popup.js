@@ -6,8 +6,8 @@ async function fetchData() {
     const res = await fetch('./database/data.json');
     const json = await res.json();
     const tabs = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
-    const url = tabs[0].url;
-    let keyword = url.replace(/.+\/\/|www.|\..+/g, '');
+    const url = tabs[0]["url"] ?? '';
+    const keyword = url.replace(/.+\/\/|www.|\..+/g, '');
 
     const urlMacif = 'https://04598namy7-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1);%20Browser%20(lite);%20instantsearch.js%20(4.1.1);%20JS%20Helper%20(3.0.0)&x-algolia-application-id=04598NAMY7&x-algolia-api-key=177bd75e88473d01178ae570be03bf17';
     const urlIgraal = 'https://fr.igraal.com/ajax/search?limitMerchants=2&limitVouchers=0&limitCoupons=0&term=';
